@@ -1,1 +1,4 @@
 *.o
+slock
+slock-message-20191002-b46028b.diff
+temp
